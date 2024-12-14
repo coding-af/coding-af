@@ -7,8 +7,9 @@
   </a>
 </h2>
 <div align="center">
- <img src="https://giphy.com/gifs/naruto-manga-ADSJHOoIvyjKM" alt="Itachi GIF" />
+  <img src="https://media.giphy.com/media/ADSJHOoIvyjKM/giphy.gif" alt="Itachi GIF" />
 </div>
+
   <br>
   <br>
   <div>Stats</div>
